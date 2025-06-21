@@ -1,6 +1,3 @@
-
-
-Read Me
 -   🔧 Backend Setup
 -   🗄️ Database Setup
 -   🔐 Signup Endpoint
@@ -22,8 +19,6 @@ Read Me
 -   🔑 Implementing Login
 -   🏠 Dashboard Page
 -   🔄 Implementing Forgot Password
--   🚀 Super Detailed Deployment
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
